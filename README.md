@@ -20,6 +20,7 @@ Repositorio creado para Examen Entornos Marlo
 ![Commit de cambios](https://github.com/marloibz/hello-world-examen/blob/8f1bd610268f2f497999bbd07e368765280d3531/5.PNG)
 
 6. Ahora si nos desplazamos por las ramas podemos ver que en la rama que hemos creado se ven los cambios realizados
+
 ![vision de rama creada](https://github.com/marloibz/hello-world-examen/blob/09725c01ad642ba5aeb016be7f21ea6e57166bd9/111.png)
 
 7. Mientras que en la rada main no seven reflejados estos cambios
